@@ -1,6 +1,6 @@
-# Frontend Mentor - Intro component with sign-up form
+# Frontend Mentor - Advice Generator
 
-Esta é uma solução para o [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-zKUNcIj2sq).
+Esta é uma solução para o [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
 ## Screenshots
 
